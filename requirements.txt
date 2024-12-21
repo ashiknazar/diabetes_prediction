@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+nbformat>=4.2.0
+statsmodels
+scipy
+xgboost
+plotly
+-e .
