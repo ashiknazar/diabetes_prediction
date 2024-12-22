@@ -8,4 +8,5 @@ statsmodels
 scipy
 xgboost
 plotly
+dill
 -e .
