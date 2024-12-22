@@ -9,4 +9,5 @@ scipy
 xgboost
 plotly
 dill
+flask
 -e .
